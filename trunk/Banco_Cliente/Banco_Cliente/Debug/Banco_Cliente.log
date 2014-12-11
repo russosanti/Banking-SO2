@@ -1,0 +1,21 @@
+﻿  AssemblyInfo.cpp
+  Conectar.cpp
+  Conecting.cpp
+  Core.cpp
+Core.cpp(69): warning C4101: 'e' : unreferenced local variable
+  Depositar.cpp
+  Extraer.cpp
+  Inicio.cpp
+  IU.cpp
+  Login.cpp
+  Main.cpp
+  Msj.cpp
+  Operaciones.cpp
+  Sock.cpp
+Sock.cpp(179): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+  stdafx.cpp
+  Transferir.cpp
+  ws-util.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Banco_Cliente.vcxproj -> C:\Users\Santy\documents\visual studio 2010\Projects\Banco_Cliente\Debug\Banco_Cliente.exe

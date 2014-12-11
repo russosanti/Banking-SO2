@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Banco_Server", "Banco_Server\Banco_Server.vcxproj", "{87F23D24-FEDE-4379-932E-D8EEC327F924}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Banking_Server", "Banking_Server\Banking_Server.isproj", "{3D9B3420-1714-4F66-974B-C809153C3FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.CD_ROM|Win32.Build.0 = Release|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.Debug|Win32.Build.0 = Debug|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.DVD-5|Win32.Build.0 = Debug|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.Release|Win32.ActiveCfg = Release|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.Release|Win32.Build.0 = Release|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{87F23D24-FEDE-4379-932E-D8EEC327F924}.SingleImage|Win32.Build.0 = Release|Win32
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.CD_ROM|Win32.ActiveCfg = CD_ROM
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.CD_ROM|Win32.Build.0 = CD_ROM
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.Debug|Win32.ActiveCfg = DVD-5
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.Debug|Win32.Build.0 = DVD-5
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.DVD-5|Win32.ActiveCfg = DVD-5
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.DVD-5|Win32.Build.0 = DVD-5
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.Release|Win32.ActiveCfg = SingleImage
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.Release|Win32.Build.0 = SingleImage
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.SingleImage|Win32.ActiveCfg = SingleImage
+		{3D9B3420-1714-4F66-974B-C809153C3FB3}.SingleImage|Win32.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

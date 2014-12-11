@@ -1,0 +1,3 @@
+﻿  Datos.cpp
+Datos.cpp(29): warning C4101: 'ex' : unreferenced local variable
+  Banco_Server.vcxproj -> C:\Users\Santy\Documents\Visual Studio 2010\Projects\Banco_Server\Debug\Banco_Server.exe

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Banco_Cliente", "Banco_Cliente\Banco_Cliente.vcxproj", "{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{991375CD-FC48-4FD3-8DF0-1104E3323744}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Banking", "Banking\Banking.isproj", "{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.CD_ROM|Win32.Build.0 = Release|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.Debug|Win32.Build.0 = Debug|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.DVD-5|Win32.Build.0 = Debug|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.Release|Win32.ActiveCfg = Release|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.Release|Win32.Build.0 = Release|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{50FC1B5F-F5CA-41D9-899C-6FB644C26A32}.SingleImage|Win32.Build.0 = Release|Win32
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.CD_ROM|Win32.ActiveCfg = CD_ROM
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.CD_ROM|Win32.Build.0 = CD_ROM
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.Debug|Win32.ActiveCfg = DVD-5
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.Debug|Win32.Build.0 = DVD-5
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.DVD-5|Win32.ActiveCfg = DVD-5
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.DVD-5|Win32.Build.0 = DVD-5
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.Release|Win32.ActiveCfg = SingleImage
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.Release|Win32.Build.0 = SingleImage
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.SingleImage|Win32.ActiveCfg = SingleImage
+		{C2C20FDA-4CCF-4C83-98B7-5CA44E37F211}.SingleImage|Win32.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

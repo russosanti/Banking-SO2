@@ -1,0 +1,33 @@
+﻿  AssemblyInfo.cpp
+AssemblyInfo.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Conectar.cpp
+Conectar.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Conecting.cpp
+Conecting.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Core.cpp
+Core.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Depositar.cpp
+Depositar.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Extraer.cpp
+Extraer.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Inicio.cpp
+Inicio.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  IU.cpp
+IU.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Login.cpp
+Login.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Main.cpp
+Main.cpp(2): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Msj.cpp
+Msj.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Operaciones.cpp
+Operaciones.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Sock.cpp
+Sock.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  stdafx.cpp
+stdafx.cpp(5): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Transferir.cpp
+Transferir.cpp(1): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  ws-util.cpp
+ws-util.cpp(8): fatal error C1083: Cannot open precompiled header file: 'Release\Banco_Cliente.pch': No such file or directory
+  Generating Code...
